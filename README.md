@@ -1,1 +1,1 @@
-This is my project in Android studio by using Kotlin
+This is my first project in Android studio by using Kotlin
